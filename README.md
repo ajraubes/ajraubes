@@ -1,71 +1,124 @@
 <h1 align="center">Hi, I'm AJ Raubenheimer 👋</h1>
 
 <p align="center">
-  <b>Full-stack e-commerce developer</b> building Shopify and Magento stores, custom apps, and headless sites.
+  <b>Full-stack developer</b> · Senior Shopify Developer at E-Complete · George, South Africa 🇿🇦
 </p>
 
 <p align="center">
-  <a href="https://github.com/ajraubes"><img src="https://img.shields.io/github/followers/ajraubes?label=Follow&style=social" alt="GitHub followers" /></a>
+  I build commerce platforms and custom software for some of South Africa's biggest retail brands.
 </p>
 
 ---
 
 ## 🙋 About me
 
-- 🛒 I build and maintain e-commerce stores for brands at **[eComplete](https://github.com/ecomplete)**, mostly on **Shopify** and **Magento 2 / Hyvä**.
-- 🧩 I write custom Shopify apps, checkout functions, and Magento modules that plug the gaps themes can't.
-- 🏐 Outside client work, I build sites and tournament tools for the dodgeball community.
-- 🌱 Currently exploring **Next.js + Payload CMS** for headless sites.
-- 💬 Ask me about Liquid, Shopify apps, Hyvä themes, or GraphQL.
+I've been shipping for retail since 2015. I started in graphic design and multimedia, moved into frontend work on enterprise Magento stores, and grew into full-stack and lead roles. These days I lead **Shopify Plus** builds for national retailers: theme architecture, integrations, and the performance work that keeps high-traffic stores converting. I still build custom PHP, React and Node.js software when a store isn't the answer.
 
-## 🛠️ Languages & tools
+- 🛒 Lead developer on enterprise Shopify Plus stores for brands like PEP, Ackermans and Levi's
+- 🧱 Ten years across Shopify, Magento 1 & 2, WordPress and custom PHP platforms
+- 🎓 Backend Magento Developer Certificate
+- 🗣️ English and Afrikaans
+
+## 🔭 Active work
+
+- 🏬 **Pepkor Group (PEP & Ackermans)**: leading Shopify Plus development for two of South Africa's largest value retailers, built for enterprise traffic and very large catalogues
+- 👟 **Bounty Brands Group**: a multi-brand Shopify Advanced estate for Hurley, Reebok, Jeep, Superdry and Diesel, run on one shared library of Liquid components
+- 👖 **Levi's South Africa**: ongoing feature development and optimisation on the Levi's SA Shopify store
+
+## 🌱 Currently learning
+
+- **Next.js & Payload CMS** for headless sites, starting with a rebuild of my own portfolio
+- **TypeScript** across my newer projects
+- **Shopify app development** with React Router, Prisma and PostgreSQL
+
+## 🛠️ Tech skills
+
+**Platforms**
+
+![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Magento 2](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![Magento 1](https://img.shields.io/badge/Magento_1-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,sass,graphql&perline=10" alt="JavaScript, TypeScript, PHP, HTML, CSS, Sass, GraphQL" />
-</p>
+![Liquid](https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-`Liquid` · `JavaScript` · `TypeScript` · `PHP` · `HTML` · `CSS / SCSS` · `GraphQL` · `Shell`
+**Frameworks**
 
-**Frameworks, platforms & tools**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,prisma,postgres,mysql,docker,git,github,vscode&perline=11" alt="React, Next.js, Node.js, Tailwind, Prisma, Postgres, MySQL, Docker, Git, GitHub, VS Code" />
-</p>
+**Tooling**
 
-`Shopify` · `Magento 2` · `Hyvä` · `React` · `Next.js` · `Payload CMS` · `Node.js` · `Apollo` · `Tailwind CSS` · `Alpine.js` · `Prisma` · `PostgreSQL` · `Docker` · `Playwright` · `Vitest`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-## 🚀 Projects
+**What I'm good at**
 
-### Current work
+- Shopify Plus & Advanced architecture
+- Custom Liquid theme development
+- Enterprise eCommerce solutions
+- Performance optimisation & CRO
+- Large catalogue & multi-brand stores
+- App & API integrations
+- Magento 1 → 2 migrations
+- Git-based, CI-friendly workflows
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **Go Go Dodgeball app** | Shopify app for tournament team signups and a "blender" pool that auto-builds teams of four, with a public teams board on the storefront. | TypeScript, React Router, Prisma, Postgres, Shopify app proxy |
-| **Dodgeball association sites** | Websites for the USA, National, College, and Youth dodgeball associations. | Web |
-| **AJR Portfolio** | My personal portfolio site with a full CMS behind it. | Next.js, Payload CMS, TypeScript, Tailwind, Postgres |
-| **Norse Gods & Creatures** | Shopify storefront theme build. | Liquid, JavaScript, CSS |
-| **GRIT** | Shopify storefront theme build. | Liquid, JavaScript, CSS |
+## 💼 Work experience
 
-> Most of my client and recent work lives in private repos, so it won't show up in my public list.
+**Senior Shopify Developer** · E-Complete · *2024 – now*
+Lead Shopify developer across Shopify Plus and Shopify Advanced stores for enterprise retail clients.
+- Architect and customise Shopify themes with Liquid, JavaScript, HTML and CSS
+- Build reusable sections, blocks and metafield-driven components for large catalogues and multi-brand setups
+- Implement advanced app integrations, custom scripts and third-party APIs
+- Optimise performance, accessibility and checkout flows for conversion and scale
+- Clients include **Pepkor Group** (PEP & Ackermans), **Bounty Brands** (Hurley, Reebok, Jeep, Superdry, Diesel) and **Levi's South Africa**
 
-### Open source & learning projects
+**Senior PHP Developer** · Squid Art · *2023*
+Built custom PHP applications and bespoke internal systems.
+- Designed scalable, secure back-end solutions tailored to each client's business
+- Built a custom PHP platform for **Plus Group Properties**
+- Maintained and enhanced legacy PHP systems
 
-| Repo | What it is | Stack |
-| --- | --- | --- |
-| [fff-graphql-goodreads](https://github.com/ajraubes/fff-graphql-goodreads) | GraphQL project built around Goodreads book data | JavaScript, GraphQL |
-| [quickstart-with-apollo](https://github.com/ajraubes/quickstart-with-apollo) | React + Apollo Client quickstart on a GraphQL backend | JavaScript, React, Apollo, GraphQL |
-| [subscriptions-with-apollo-worldchat](https://github.com/ajraubes/subscriptions-with-apollo-worldchat) | Real-time chat that maps every participant's location, built on GraphQL subscriptions | JavaScript, React, Apollo, GraphQL |
-| [pokedex-react](https://github.com/ajraubes/pokedex-react) | Pokédex app built with React | JavaScript, React |
-| [moving-containers](https://github.com/ajraubes/moving-containers) | React app bootstrapped with Create React App | JavaScript, React |
-| [ecomplete](https://github.com/ajraubes/ecomplete) | Dockerised Magento 2 development environment | PHP, Docker |
+**Head of IT & Developer** · Musan Trading · *2022*
+Ran IT for the main office, two retail outlets and a warehouse.
+- Built and maintained the company websites on WordPress
+- Created 360° virtual walkthroughs and drone video content
+
+**Magento Developer** · Vectra · *2021 – 2022*
+Main frontend developer on Magento 2 projects, including **Leatt B2B**, **Farmers World**, **CTM** and **Superroof**.
+
+**Magento Developer** · Monetise · *2020 – 2021*
+Magento 1 and 2 projects, migrations, sysadmin and deployments.
+- Led multiple Magento 1 → 2 migrations, including **Banks Kitchen Boutique**
+- Lead developer and sysadmin on **Futurama** and **EGG**; also worked on **Guess**, **Aldo Shoes** and **Watchfinder**
+
+**Full Stack Developer** · Silvertree · *2017 – 2019*
+Magento and full-stack development with React and Node.js, plus project management.
+- Built **CompareGuru** and **CG Private Wealth** with React and Node.js
+- Magento work for **Faithful to Nature**, **PetHeaven** and **CyberCellar**
+
+**Frontend Developer** · Fontera · *2015 – 2017*
+Grew from junior to senior Magento frontend developer on enterprise stores for **Ackermans**, **DStv**, **Edgars Financial Services**, **Jet Financial Services**, **Carrol Boyes**, **Forever New** and **Umbro**.
+
+## 🎓 Education
+
+- **Graphic Design & Multimedia** · Centurion Academic · 2012 – 2013
+- **Backend Magento Developer Certificate**
 
 ## 📫 Get in touch
 
-<!-- Add your links here, e.g.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://YOUR-SITE)
--->
+Open to freelance, contract and full-time roles.
 
-Reach out through GitHub, or find me via my portfolio (link coming soon).
+[![Email](https://img.shields.io/badge/Email-raubes.aj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raubes.aj@gmail.com)
