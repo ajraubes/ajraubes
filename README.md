@@ -19,6 +19,18 @@ I've been shipping for retail since 2015. I started in graphic design and multim
 - 🎓 Backend Magento Developer Certificate
 - 🗣️ English and Afrikaans
 
+## 🔭 Active work
+
+- 🏬 **Pepkor Group (PEP & Ackermans)**: leading Shopify Plus development for two of South Africa's largest value retailers, built for enterprise traffic and very large catalogues
+- 👟 **Bounty Brands Group**: a multi-brand Shopify Advanced estate for Hurley, Reebok, Jeep, Superdry and Diesel, run on one shared library of Liquid components
+- 👖 **Levi's South Africa**: ongoing feature development and optimisation on the Levi's SA Shopify store
+
+## 🌱 Currently learning
+
+- **Next.js & Payload CMS** for headless sites, starting with a rebuild of my own portfolio
+- **TypeScript** across my newer projects
+- **Shopify app development** with React Router, Prisma and PostgreSQL
+
 ## 🛠️ Tech skills
 
 **Platforms**
